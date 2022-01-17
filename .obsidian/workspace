@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "6f107b481f88e47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "25977ee7476bc62c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "格物/blockchain/ICP/准备.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f764409df65bdc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd99fe7d16d3aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e90e6f3d7e4515",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cee2d0b4a04da67c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f07b5be3064fb160",
+    "type": "split",
+    "children": [
+      {
+        "id": "1587003e4ae915c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec8dd8bbe31862e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "格物/blockchain/ICP/准备.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25977ee7476bc62c",
+  "lastOpenFiles": [
+    "格物/blockchain/ICP/准备.md",
+    "格物/blockchain/celestia/资料.md",
+    "tools/screen.md",
+    "格物/blockchain/solana/资料.md",
+    "格物/blockchain/cosmos/tendermint.md",
+    "README.md",
+    "影视列表.md"
+  ]
+}
